@@ -1,4 +1,4 @@
-/* index.js - Adam Shumway, CS313 */
+
 var express = require('express');
 var app = express();
 var url = require('url');
